@@ -1,4 +1,4 @@
-# 🏫 mkoy. — Школьная экосистема
+# mkoy. — Школьная экосистема
 
 ![mkoy_logo](https://img.shields.io/badge/mkoy.-school_ecosystem-0a0a0a?style=for-the-badge&logo=apple&logoColor=white)
 
