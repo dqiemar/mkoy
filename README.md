@@ -1,7 +1,5 @@
 # mkoy. — Школьная экосистема
 
-![mkoy_logo](https://img.shields.io/badge/mkoy.-school_ecosystem-0a0a0a?style=for-the-badge&logo=apple&logoColor=white)
-
 **mkoy.** — это современное веб-приложение (SPA), созданное для удобной и безопасной школьной жизни. Вдохновлено минималистичным дизайном Apple, функциональностью крупных экосистем и ориентировано на использование в школах.
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
